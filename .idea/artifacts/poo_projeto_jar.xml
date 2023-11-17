@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="poo_projeto:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/poo_projeto_jar</output-path>
+    <root id="archive" name="poo_projeto.jar">
+      <element id="module-output" name="poo_projeto" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar" path-in-jar="/" />
+      <element id="archive" name="poo_projeto.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
